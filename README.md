@@ -78,6 +78,13 @@ O Projeto Autonomus Mobile tem o objetivo de libertar pacientes com Esclerose La
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/PabloSanttana">
+        <img src="https://avatars.githubusercontent.com/u/52142127?u=57fecc4670e779e8d516a1284485cebc135e9537&v=4" width="100px;" alt="Felipe Ricardo"/>
+        <br />
+        <sub><b>Guilherme Pablo</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://git.lais.huol.ufrn.br/hertz.wilton">
         <img src="https://git.lais.huol.ufrn.br/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png" width="100px;" alt="Hertz Wilton"/>
         <br />
